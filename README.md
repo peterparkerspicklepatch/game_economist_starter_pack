@@ -12,7 +12,7 @@ A quintessential Metaverse" Matthew Ball essay that's good to read in companion 
 The book takes a long time horizon and is more academic than anything listed. The book marshals much pre-2000 data about how the game industry was changing. The author, Joost Van Dreunen, used to run SuperData, which sourced a great deal of industry-level data.
 ## Production
 ### [Postmortems: Selects Essays](https://read.amazon.com/kp/embed?asin=B07DKWGK4B&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MC0NEPF5A10A5SJXDFNQ)
-It is a heavy read at ~600 pages but covers many issues, from art production to engine problems. The challenge with postmortems isn't if they are accurate depictions of what went wrong but rather how applicable their problems are to your problems. Adopting these lessons improves your batting average, even if some of the claims are strikes.
+It is a heavy read at ~600 pages but covers many issues, from art production to engine problems. The challenge with postmortems isn't if they are accurate depictions of what went wrong but rather how applicable their problems are to your problems. Adopting these lessons improves your batting average, even if some claims are strikes.
 ### Postmortem: Irrational Games’ System Shock 2
 I cheated by including another postmortem, which is short and sweet. It’s dated  1, but it is a good reference for how the team overcame many challenges to deliver. The takeaway is how tech choices reverberate throughout a project.
 ### [How Do You Make a Game That Was Supposed to Be Small, but Ended up Being Huge](https://www.youtube.com/watch?v=DcxRUc092WY&ab_channel=GDC)
@@ -21,14 +21,14 @@ It's not the greatest talk, but it’s a good section of tests or “gates” a 
 Self-recommending. An efficient GDC talk captures many challenges of group decision-making on a single creative product. Feel free to stop watching after 38:00 - the last speaker is not worth the time.
 ## Design
 ### [Freemium Mobile Games: Design & Monetization](https://www.amazon.com/dp/1512322172/ref=cm_sw_em_r_mt_dp_D8WE5TEWN7KPSEBY6Q1R)
-A savvy guide to the design choices that separate F2P and live service from traditional HD (i.e., PC/Console games). There’s somewhere with Suefert's boSuefert'shis one is more design than metrics-focused.
+A savvy guide to the design choices that separate F2P and live service from traditional HD (i.e., PC/Console games). This is more design than metrics-focused.
 ### [Rules of the Game: Another Five Techniques from Particularly Crafty Designers](https://www.youtube.com/watch?v=MVq1-y7ailE&ab_channel=GDC)
-It’s good, but game diet's tapas with actionable advice. I would suggest following through on the talk’s challenge “For each ru"e; you can then decide whether it’s useful for your projects and how you might merge that technique into your design rulebook. You may not agree with every rule you hear in this fast-paced and energetic session, but they’ll let you think about the craft of game design.”
+It’s good, with actionable advice. I suggest following through on the talk’s challenge: “For each rule, you can decide whether it’s useful for your projects and how you might merge that technique into your design rulebook. You may not agree with every rule you hear in this fast-paced and energetic session, but they’ll let you think about the craft of game design.”
 ### [Practical Creativity](https://www.youtube.com/watch?v=zyVTxGpEO30&ab_channel=GDC)
-This is one of Raph’s (UltiRaph's and now doing web3) best talks.  Raph strips down mechanics and tracks how they apply to different genres. We’ll be doiWe'lllot of this!
+This is one of Raph’s (UltiRaph's and now doing web3) best talks.  Raph strips down mechanics and tracks how they apply to different genres. We’ll be doing a lot of this!
 ### Royal Match - The New King from Turkey
 I referenced this game in the pitch deck because it’s a beautiful story of what rigorous study and sweat can do. Despite being out-resourced and out-spent, the developer grabbed market share from the billion-dollar match-3 titans.
-This deconstruction showcases two things: (1) it exemplifies an excellent deconstruction, and (2) it highlights crucial decisions in match-3. It’s a great idea to” look at ho," a simple genre that requires deep thought.
+This deconstruction showcases two things: (1) it exemplifies an excellent deconstruction, and (2) it highlights crucial decisions in match-3, a simple genre that requires deep thought.
 ## UX
 ### [Juice it or Lose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg&ab_channel=grapefrukt)
 Animation is one of the most significant differences between polished and unpolished games. The talk is lightning-quick and demonstrates how small touches’ have an 'incredible effect on the product. Do not wait until the last sprint before release to start conceiving these!
@@ -55,4 +55,4 @@ The below titles are an array across the key genres. Remember to take notes as y
 - RPG: Genshin Impact,
 - FPS: CS: GO, Apex Legends
 ### Web3
-There are not a lot of launched and high-quality products we can learn from yet.
+There are a few launched and high-quality products we can learn from.
